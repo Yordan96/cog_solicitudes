@@ -1,0 +1,14 @@
+//*****COMANDOS UTILES  PARA CORRER EL PROYECTO
+//Crear las migraciones
+dotnet ef migrations add InitialCreate
+
+//aplicar las migraciones
+dotnet ef database update
+
+//correr la aplicacion
+dotnet run
+
+
+
+//Documentacion Swagger
+http://localhost:5168/swagger/index.html

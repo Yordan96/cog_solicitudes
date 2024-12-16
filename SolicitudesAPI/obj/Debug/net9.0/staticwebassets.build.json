@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ZpKGOZBL1ouWQAc6AciLIsttE150JJ0wSxFTxu/TNvo=",
+  "Source": "SolicitudesAPI",
+  "BasePath": "_content/SolicitudesAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
